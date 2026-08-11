@@ -1,4 +1,4 @@
-Hi, I'm Soniya  
+Hi, I'm Soniya
 
 💻 Passionate Software Developer with hands-on experience in building scalable web applications using Java, Spring Boot, and modern frontend technologies. I enjoy solving real-world problems through clean, efficient, and maintainable code.
 
